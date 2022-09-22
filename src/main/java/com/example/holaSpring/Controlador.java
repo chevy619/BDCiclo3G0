@@ -15,6 +15,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controlador {
     @GetMapping("/")
     public String mensaje(){
-        return "Hola mundo";
+        return "Haciendo prueba en Oracle cloud";
     }
 }
